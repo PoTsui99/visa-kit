@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">VisaKit</title>
+  <desc id="desc">A dark travel-inspired banner for a visa preparation skill library, starting with the United Kingdom.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset="1" stop-color="#112d38"/></linearGradient>
+    <linearGradient id="glow"><stop stop-color="#68f0c4"/><stop offset="1" stop-color="#94c9ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="50" r="260" fill="#68f0c4" opacity=".035"/>
+  <circle cx="1080" cy="50" r="190" fill="none" stroke="#68f0c4" stroke-opacity=".1"/>
+  <circle cx="1080" cy="50" r="240" fill="none" stroke="#68f0c4" stroke-opacity=".07"/>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <rect x="64" y="47" width="245" height="30" rx="15" fill="#68f0c4" fill-opacity=".09" stroke="#68f0c4" stroke-opacity=".3"/>
+    <circle cx="81" cy="62" r="4" fill="#68f0c4"/>
+    <text x="94" y="67" font-size="11" letter-spacing="1.7" fill="#a8ead8">YOUR NEXT DESTINATION</text>
+    <text x="64" y="189" font-size="86" font-weight="700" letter-spacing="-6" fill="#f4f8fa">visa<tspan fill="url(#glow)">kit</tspan><tspan fill="#68f0c4">.</tspan></text>
+    <text x="68" y="244" font-size="21" fill="#c4d5dd">From paperwork to a prepared application.</text>
+    <text x="68" y="286" font-size="13" letter-spacing="1.6" fill="#789aa8">SKILLS / DOCUMENTS / WORKFLOWS</text>
+    <path d="M68 346H619" stroke="#527886" stroke-opacity=".5"/>
+    <circle cx="68" cy="346" r="5" fill="#68f0c4"/>
+    <circle cx="252" cy="346" r="4" fill="#68f0c4"/>
+    <circle cx="435" cy="346" r="4" fill="#68f0c4"/>
+    <circle cx="619" cy="346" r="5" fill="#94c9ff"/>
+    <text x="68" y="379" font-size="10" letter-spacing="1.5" fill="#91adb9">COLLECT</text>
+    <text x="252" y="379" font-size="10" letter-spacing="1.5" fill="#91adb9">PREPARE</text>
+    <text x="435" y="379" font-size="10" letter-spacing="1.5" fill="#91adb9">VERIFY</text>
+    <text x="590" y="379" font-size="10" letter-spacing="1.5" fill="#91adb9">SUBMIT</text>
+  </g>
+  <g transform="translate(790 85) rotate(6 145 140)">
+    <rect x="8" y="12" width="288" height="286" rx="18" fill="#02090f" opacity=".4"/>
+    <rect width="288" height="286" rx="18" fill="#153745" stroke="#91c5ca" stroke-opacity=".4"/>
+    <rect x="25" y="25" width="6" height="34" rx="3" fill="#68f0c4"/>
+    <text x="45" y="41" fill="#bed0d7" font-size="11" letter-spacing="2" font-family="monospace">COUNTRY MODULE 01</text>
+    <text x="26" y="138" fill="#f4f8fa" font-size="76" font-weight="700" font-family="sans-serif">UK</text>
+    <text x="28" y="167" fill="#83a7b5" font-size="11" letter-spacing="2" font-family="monospace">STANDARD VISITOR</text>
+    <path d="M24 195H264" stroke="#7fb0bf" stroke-opacity=".3" stroke-dasharray="4 5"/>
+    <text x="28" y="226" fill="#bed0d7" font-size="11" letter-spacing="1" font-family="monospace">START HERE.</text>
+    <text x="28" y="248" fill="#68f0c4" font-size="11" letter-spacing="1" font-family="monospace">BUILD FOR WHAT'S NEXT.</text>
+    <path d="M229 106l18 8-18 8 3-8z" fill="#68f0c4"/>
+  </g>
+</svg>

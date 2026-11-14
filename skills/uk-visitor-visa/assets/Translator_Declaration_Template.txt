@@ -1,0 +1,13 @@
+TRANSLATOR'S DECLARATION
+
+Document: {{EXACT_DOCUMENT_TITLE_AND_DATE}}
+Scope: Complete English translation of {{SOURCE_PAGE_COUNT}} source page(s), {{LOCATION_OF_ORIGINAL_OR_SCAN}}.
+
+I, {{TRANSLATOR_FULL_NAME}}, confirm that I have checked this translation against the original document and that it is a true, complete and accurate translation of that document.
+
+Translator's full name: {{TRANSLATOR_FULL_NAME}}
+Qualifications / professional affiliation, if applicable: {{ACTUAL_DETAILS_OR_REMOVE_THIS_LINE}}
+Contact telephone: {{TRANSLATOR_TELEPHONE}}
+Contact email / address: {{TRANSLATOR_CONTACT_DETAILS}}
+Date of translation and review: {{ACTUAL_REVIEW_DATE}}
+Signature: {{SIGNATURE_AFTER_ACTUAL_REVIEW}}

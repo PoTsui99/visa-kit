@@ -1,0 +1,4 @@
+interface:
+  display_name: "英国访客签证助手"
+  short_description: "面向中国申请人的英签材料翻译、批量信息采集、在线填表与预约上传协助"
+  default_prompt: "请使用 $uk-visitor-visa，先核对已有材料并一次性收集缺失答案，再准备翻译、填写申请和安排预约。"
