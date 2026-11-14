@@ -40,6 +40,12 @@ VisaKit is a collection of visa preparation skills and tools for AI assistants. 
 | Continue online applications | Reuse confirmed answers while respecting the authorised scope and steps requiring the applicant's involvement |
 | Complete the upload handover | Verify the saved document set and official confirmation before updating the print pack |
 
+## Human review before every payment and formal submission
+
+Before each payment, application submission, declaration acceptance, appointment confirmation or final document upload, addition or replacement, the assistant must present the specific details for review and explicit confirmation by the applicant or a clearly authorised human representative entitled to review them. The review covers application answers and discrepancies, files and versions, destination website and application, appointment details, and the payee, currency, amount and selected services. The applicant completes payments personally; formal submissions follow the execution tools' rules.
+
+A general instruction to finish the process, suggested answers, silence or an earlier confirmation does not replace this review. A specifically reviewed batch may proceed through its listed steps without repeated prompts; material changes to its content, files, price or appointment require renewed review. Routine navigation, reading and saving editable drafts may continue within the authorised scope. This checkpoint is required by the skill instructions; users must still supervise actual execution.
+
 ## Starting with the UK
 
 | Destination | Current scope | Entry point |
@@ -115,6 +121,10 @@ Fees, evidence requirements and website flows change. Consult current official s
 
 This repository contains workflows, blank templates and tools. Keep real identity documents, bank statements, addresses, signatures, answers, screenshots, application references, browser sessions and passwords in a private application directory outside the repository. `.gitignore` is a supporting measure; always inspect the actual staged files before committing.
 
-The person who checks a translation is responsible for its declaration. Handle personal declarations, signatures, payments and account actions according to the applicant's authorisation and the applicable tool rules. VisaKit assists with preparation and application handling; visa decisions remain with the responsible authorities.
+The person who checks a translation is responsible for its declaration. Handle personal declarations, signatures, payments and account actions according to the applicant's authorisation and the applicable tool rules.
+
+## Disclaimer
+
+**To the fullest extent permitted by applicable law, the authors and contributors are not liable for visa refusal, delays, lost application or service fees, travel expenses or other damages arising from use of this project.** It is provided as is, with no guarantee of accuracy, suitability or visa approval. Users must verify official requirements and personally review the final content. See the full [disclaimer](DISCLAIMER.md#english) for its scope and the exception for liability that cannot lawfully be excluded.
 
 <p align="center"><sub>Prepared with care. Grounded in evidence. Ready for the next destination.</sub></p>
