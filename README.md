@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <strong>简体中文</strong> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <strong>把散落的材料，变成一份有据可查的签证申请。</strong><br />
   Skills, document workflows & practical tools for visa preparation.
 </p>
